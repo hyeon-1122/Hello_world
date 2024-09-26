@@ -3,5 +3,6 @@ public class Hello_first {
         System.out.println("Hello, World!");
         System.out.println("It's my first vs code");
         System.out.println("Soooo difficult");
+        System.out.println("But I can do this!");
     }
 }
